@@ -80,7 +80,6 @@ Welcome to the `requirement-analysis` repository! This project provides a compre
 **📌 Example – Booking System Use Case Diagram:**  
 [![Case Diagram](./alx-booking-uc.png)](https://drive.google.com/file/d/1RGOhZNFEcJifjmKrXE58CV7N1XNHg7aK/view?usp=sharing)
 
-> *(Make sure to add `alx-booking-uc.png` to your repository root.)*
 
 ---
 
