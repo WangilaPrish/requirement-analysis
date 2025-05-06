@@ -78,8 +78,7 @@ Welcome to the `requirement-analysis` repository! This project provides a compre
 - Highlights functional expectations early on.
 
 **📌 Example – Booking System Use Case Diagram:**  
-[![Case Diagram](.assets/alx-booking-uc.png)](https://drive.google.com/file/d/1RGOhZNFEcJifjmKrXE58CV7N1XNHg7aK/view?usp=sharing)
-
+[![Case Diagram](.assets/alx-booking-uc.png)]
 
 ---
 
